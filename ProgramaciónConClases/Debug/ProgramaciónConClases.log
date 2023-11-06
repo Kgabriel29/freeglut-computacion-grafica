@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Gráfica\ProgramaciónConClases\Main.cpp(18,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  ProgramaciónConClases.vcxproj -> D:\Gráfica\ProgramaciónConClases\Debug\ProgramaciónConClases.exe

@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\Gráfica\BSpline\BSpline\Main.cpp(15,44): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Gráfica\BSpline\BSpline\Main.cpp(46,11): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(46,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(49,10): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(49,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(49,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(92,63): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Gráfica\BSpline\BSpline\Main.cpp(107,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Gráfica\BSpline\BSpline\Main.cpp(108,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  BSpline.vcxproj -> D:\Gráfica\BSpline\Debug\BSpline.exe

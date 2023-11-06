@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(99,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(99,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(99,19): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(129,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(137,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(217,44): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(218,23): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(282,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Unidad1Proyecyo\Unidad1Proyecyo\Main.cpp(283,19): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  Unidad1Proyecyo.vcxproj -> D:\Gráfica\Unidad1Proyecyo\Debug\Unidad1Proyecyo.exe

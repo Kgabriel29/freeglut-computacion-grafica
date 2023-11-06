@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(35,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(35,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(35,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(46,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(47,14): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(48,17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Planos2.0\Planos2.0\Main.cpp(49,17): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Planos2.0.vcxproj -> D:\Gráfica\Planos2.0\Debug\Planos2.0.exe

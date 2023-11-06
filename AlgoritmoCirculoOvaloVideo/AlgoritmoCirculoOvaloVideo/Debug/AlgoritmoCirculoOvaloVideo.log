@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(11,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(11,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(11,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(13,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(13,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(26,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(26,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(27,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Gráfica\AlgoritmoCirculoOvaloVideo\AlgoritmoCirculoOvaloVideo\Main.cpp(27,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  AlgoritmoCirculoOvaloVideo.vcxproj -> D:\Gráfica\AlgoritmoCirculoOvaloVideo\Debug\AlgoritmoCirculoOvaloVideo.exe

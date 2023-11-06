@@ -1,0 +1,16 @@
+﻿  CohenShuterland.cpp
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(46,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(51,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(87,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(87,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(88,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(88,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(89,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(89,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(90,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(90,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(94,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(94,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(95,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+D:\Gráfica\Cohen-Shuterland\CohenShuterland.cpp(95,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Cohen-Shuterland.vcxproj -> D:\Gráfica\Cohen-Shuterland\Debug\Cohen-Shuterland.exe

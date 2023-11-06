@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Gráfica\CompedioTematicas\CompedioTematicas\Main.cpp(13,13): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\CompedioTematicas\CompedioTematicas\Main.cpp(14,13): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\CompedioTematicas\CompedioTematicas\Main.cpp(15,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\CompedioTematicas\CompedioTematicas\Main.cpp(16,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+  CompedioTematicas.vcxproj -> D:\Gráfica\CompedioTematicas\Debug\CompedioTematicas.exe

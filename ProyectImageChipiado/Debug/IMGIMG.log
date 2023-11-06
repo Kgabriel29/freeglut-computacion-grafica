@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\carlo\source\repos\IMGIMG\IMGIMG\Source.cpp(184,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\carlo\source\repos\IMGIMG\IMGIMG\Source.cpp(220,37): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+C:\Users\carlo\source\repos\IMGIMG\IMGIMG\Source.cpp(220,31): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+  IMGIMG.vcxproj -> C:\Users\carlo\source\repos\IMGIMG\Debug\IMGIMG.exe

@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Gráfica\Sutherland–Hodgman\Sutherland–Hodgman\Main.cpp(273,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Sutherland–Hodgman.vcxproj -> D:\Gráfica\Sutherland–Hodgman\Debug\Sutherland–Hodgman.exe

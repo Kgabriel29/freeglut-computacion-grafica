@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(54,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(80,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(120,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(121,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(135,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\AlgoritmosCirculos&Ovalos\AlgoritmosCirculos&Ovalos\Main.cpp(136,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AlgoritmosCirculos&Ovalos.vcxproj -> D:\Gráfica\AlgoritmosCirculos&Ovalos\Debug\AlgoritmosCirculos&Ovalos.exe

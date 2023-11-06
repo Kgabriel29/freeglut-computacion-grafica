@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Gráfica\Básicos\primeraClase\primeraClase\Main.cpp(45,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Básicos\primeraClase\primeraClase\Main.cpp(45,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  primeraClase.vcxproj -> D:\Gráfica\Básicos\primeraClase\Debug\primeraClase.exe

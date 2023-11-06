@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(15,39): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(37,39): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(95,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(95,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(95,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ExamenU1GabrielVaca\ExamenU1GabrielVaca\Main.cpp(95,10): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ExamenU1GabrielVaca.vcxproj -> D:\Gráfica\ExamenU1GabrielVaca\Debug\ExamenU1GabrielVaca.exe

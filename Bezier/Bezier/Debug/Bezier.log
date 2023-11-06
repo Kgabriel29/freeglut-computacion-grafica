@@ -1,0 +1,13 @@
+﻿  Main.cpp
+D:\Gráfica\Bezier\Bezier\Main.cpp(4,16): error C2365: 'y1': redefinition; previous definition was 'function'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h(989,76): message : see declaration of 'y1'
+D:\Gráfica\Bezier\Bezier\Main.cpp(11,5): error C2664: 'void glVertex2f(GLfloat,GLfloat)': cannot convert argument 2 from 'double (__cdecl *)(double)' to 'GLfloat'
+D:\Gráfica\Bezier\Bezier\Main.cpp(11,20): message : Context does not allow for disambiguation of overloaded function
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\GL\gl.h(1469,25): message : see declaration of 'glVertex2f'
+D:\Gráfica\Bezier\Bezier\Main.cpp(11,5): message : while trying to match the argument list '(float, overloaded-function)'
+D:\Gráfica\Bezier\Bezier\Main.cpp(23,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(24,16): error C2659: '=': function as left operand
+D:\Gráfica\Bezier\Bezier\Main.cpp(29,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(30,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(34,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(35,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data

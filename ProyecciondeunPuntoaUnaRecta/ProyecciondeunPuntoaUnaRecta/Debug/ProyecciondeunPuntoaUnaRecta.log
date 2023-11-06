@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Gráfica\ProyecciondeunPuntoaUnaRecta\ProyecciondeunPuntoaUnaRecta\Main.cpp(41,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ProyecciondeunPuntoaUnaRecta\ProyecciondeunPuntoaUnaRecta\Main.cpp(49,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ProyecciondeunPuntoaUnaRecta\ProyecciondeunPuntoaUnaRecta\Main.cpp(49,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\ProyecciondeunPuntoaUnaRecta\ProyecciondeunPuntoaUnaRecta\Main.cpp(79,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ProyecciondeunPuntoaUnaRecta.vcxproj -> D:\Gráfica\ProyecciondeunPuntoaUnaRecta\Debug\ProyecciondeunPuntoaUnaRecta.exe

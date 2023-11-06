@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Gráfica\ExamenU3\Main.cpp(104,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Source.cpp
+  Generating Code...
+  ExamenU3.vcxproj -> D:\Gráfica\ExamenU3\Debug\ExamenU3.exe

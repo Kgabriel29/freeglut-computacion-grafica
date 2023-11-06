@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(33,24): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(33,21): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(72,79): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(72,65): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(72,51): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(72,35): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(88,30): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(89,30): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(94,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\1U2-AlgoritmosLineales\1U2-AlgoritmosLineales\Main.cpp(95,28): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  1U2-AlgoritmosLineales.vcxproj -> D:\Gráfica\1U2-AlgoritmosLineales\Debug\1U2-AlgoritmosLineales.exe

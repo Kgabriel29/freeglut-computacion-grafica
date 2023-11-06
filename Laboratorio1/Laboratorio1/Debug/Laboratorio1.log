@@ -1,0 +1,6 @@
+﻿  Lab1.cpp
+D:\Gráfica\Laboratorio1\Laboratorio1\Lab1.cpp(21,38): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Laboratorio1\Laboratorio1\Lab1.cpp(24,19): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Laboratorio1\Laboratorio1\Lab1.cpp(24,42): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Laboratorio1\Laboratorio1\Lab1.cpp(24,65): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  Laboratorio1.vcxproj -> D:\Gráfica\Laboratorio1\Debug\Laboratorio1.exe

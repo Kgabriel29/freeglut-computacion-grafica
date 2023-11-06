@@ -1,0 +1,16 @@
+﻿  Mian.cpp
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(9,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(9,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(9,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(13,20): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(14,23): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(15,23): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(16,20): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(17,20): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(25,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(26,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(27,19): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(28,19): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(33,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\Taller1U2\Taller1U2\Mian.cpp(35,20): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+  Taller1U2.vcxproj -> D:\Gráfica\Taller1U2\Debug\Taller1U2.exe

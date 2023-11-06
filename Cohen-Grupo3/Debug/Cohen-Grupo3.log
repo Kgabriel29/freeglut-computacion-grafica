@@ -1,0 +1,18 @@
+﻿  Main.cpp
+D:\Gráfica\Cohen-Grupo3\Main.cpp(18,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(18,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(19,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(19,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(20,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(20,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(21,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(51,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(55,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(59,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(63,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(127,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(128,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(135,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Gráfica\Cohen-Grupo3\Main.cpp(136,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Cohen-Grupo3.vcxproj -> D:\Gráfica\Cohen-Grupo3\Debug\Cohen-Grupo3.exe

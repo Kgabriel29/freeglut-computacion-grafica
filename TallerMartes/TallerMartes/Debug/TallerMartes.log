@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Gráfica\TallerMartes\TallerMartes\Main.cpp(64,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  TallerMartes.vcxproj -> D:\Gráfica\TallerMartes\Debug\TallerMartes.exe

@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (arreglado.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  arregladoProyect.cpp
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(18,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(19,16): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(20,19): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(21,19): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(51,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(39,23): warning C4101: 'multVect': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(39,38): warning C4101: 'res': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(39,32): warning C4101: 'esca': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(102,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(90,14): warning C4101: 'sumVects': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(90,40): warning C4101: 'res': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(90,34): warning C4101: 'esca': unreferenced local variable
+D:\Gráfica\arreglado\arreglado\arregladoProyect.cpp(130,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  arreglado.vcxproj -> D:\Gráfica\arreglado\Debug\ProyectoUnidad1-Grupo2.exe

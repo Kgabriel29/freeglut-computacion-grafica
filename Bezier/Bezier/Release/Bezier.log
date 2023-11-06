@@ -1,0 +1,23 @@
+﻿  Main.cpp
+D:\Gráfica\Bezier\Bezier\Main.cpp(39,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(40,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(54,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(55,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(60,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(61,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(66,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(67,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(77,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(78,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(83,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(84,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(89,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(90,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(95,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Gráfica\Bezier\Bezier\Main.cpp(96,26): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating code
+  0 of 12 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bezier.vcxproj -> D:\Gráfica\Bezier\Release\Bezier.exe
